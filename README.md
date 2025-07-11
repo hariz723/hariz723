@@ -35,7 +35,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Evidently](https://img.shields.io/badge/Evidently-blueviolet?style=for-the-badge)
-
+![Ollama](https://img.shields.io/badge/Ollama-1c1c1c?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## 🗃️ Databases
