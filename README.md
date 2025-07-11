@@ -68,6 +68,6 @@ Welcome to my GitHub! I'm a passionate developer focused on building projects wi
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: [linkedin.com/in/your-profile]((https://www.linkedin.com/in/hari-prasanth-annadurai/))
+- LinkedIn: [linkedin]((https://www.linkedin.com/in/hari-prasanth-annadurai/))
 - Email: harijilla723@gmail.com
 
