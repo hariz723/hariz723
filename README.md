@@ -60,8 +60,8 @@
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 ![Unittest](https://img.shields.io/badge/Unittest-FFB300?style=for-the-badge)
-![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge)
-![MkDocs](https://img.shields.io/badge/MkDocs-4F5D95?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white)
+
 
 ---
 
@@ -88,9 +88,8 @@
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ [Email Me](harijilla723@gmail.com)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-prasanth-annadurai/)
+- ✉️ Email - harijilla723@gmail.com
 ---
 
 > 🚀 *“Obsessed with Clean Code & Continuous Learning.”*
