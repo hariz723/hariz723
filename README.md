@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full-Stack Developer | 💡 AI Enthusiast | 🐧 Linux Power User</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=hariz723&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hariz723?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
 ---
