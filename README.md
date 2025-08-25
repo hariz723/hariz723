@@ -88,7 +88,7 @@
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hari-prasanth-annadurai/)
-- ✉️ Email - harijilla723@gmail.com
+- ✉️ Email - annaduraihariprasanth@gmail.com
 ---
 
 > 🚀 *“Obsessed with Clean Code & Continuous Learning.”*
