@@ -74,10 +74,14 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 🕸 GitHub Radar Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hariz723/hariz723/main/github-metrics.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hariz723&theme=radical&utcOffset=8" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariz723&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariz723&theme=radical" />
 </p>
+
 
 
 
