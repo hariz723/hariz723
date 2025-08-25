@@ -74,10 +74,11 @@
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariz723&theme=radical" />
+  <img src="https://raw.githubusercontent.com/hariz723/hariz723/main/github-metrics.svg" />
 </p>
+
 
 
 ## 🔗 Connect with Me
