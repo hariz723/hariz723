@@ -74,13 +74,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariz723&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariz723&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariz723&theme=radical" />
 </p>
----
+
 
 ## 🔗 Connect with Me
 
